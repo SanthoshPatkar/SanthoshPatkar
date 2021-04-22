@@ -15,10 +15,5 @@
 - C++
 - C
 
-<p align="center">
-<a href="https://github.com/SanthoshPatkar">
-    <img src="https://avatars.githubusercontent.com/u/72272748?s=400&u=5885bd7b5f7f2777818d0902fffe062d40d747ac&v=4" />
-  </a>  
- </p>
  
 
