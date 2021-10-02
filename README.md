@@ -27,9 +27,6 @@
 </p>
 
 
--Web development,Data Science,ML Enthusiastic
--
-
 Git Status
 
 
