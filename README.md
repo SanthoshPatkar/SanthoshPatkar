@@ -30,7 +30,7 @@
 -Web development,Data Science,ML Enthusiastic
 -
 
-Git Activeness
+Git Status
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanthoshPatkar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
