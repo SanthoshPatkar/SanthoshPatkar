@@ -1,9 +1,10 @@
  ### Hi, I'm Santhosh G Patkar! 👋
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
-[<img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
-[<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img height="32" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
+[<img height="32" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
+[<img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail] <br>
 <img height="30" src="https://komarev.com/ghpvc/?username=SanthoshPatkar&color=blueviolet" />
+
 
 [gmail]: mailto:ssanthoshp159@gmail.com
 [Linkedin]:https://www.linkedin.com/in/santhosh-g-patkar/
@@ -11,8 +12,7 @@
 [Github]: https://github.com/SanthoshPatkar
 
 <!-- ![alt text](Cover.jpg)-->
- My Tool Box
-
+Tools
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="40"/>
