@@ -35,4 +35,9 @@ Git Status
  
 </div>
  
+ <p align="center">
+  <span>
+    <img title="🔥 Get streak stats for your profile" alt="Santhosh Code Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshPatkar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+  </span>
+ </p>
 
